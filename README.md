@@ -192,15 +192,6 @@ This simulation beautifully demonstrates several fundamental concepts:
 - The animation speed can be modified by changing the `pause()` duration in the main loop
 - Close figure windows to stop timers and free memory
 
-## References
-
-This simulation implements standard rigid body dynamics theory found in:
-- Classical mechanics textbooks (Goldstein, Marion & Thornton)
-- Spacecraft dynamics literature
-- Quaternion algebra and rotation representation
-
-## License
-
 Feel free to use and modify this code for educational and research purposes.
 
 ## Author
